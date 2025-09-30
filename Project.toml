@@ -1,0 +1,10 @@
+name = "SwrBl"
+uuid = "3c3a6375-87fb-44d5-b18f-247b082e0b35"
+authors = ["andrada.radu <radu.andrada8@gmail.com>"]
+version = "0.1.0"
+
+[workspace]
+deps = [
+    "SwrCommonModel",
+    "SwrDishes",
+]

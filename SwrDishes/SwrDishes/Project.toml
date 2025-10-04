@@ -2,3 +2,12 @@ name = "SwrDishes"
 uuid = "d68a0dbe-9525-4ad7-9f49-e372d8d725fd"
 authors = ["andrada.radu <radu.andrada8@gmail.com>"]
 version = "0.1.0"
+
+
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Parameters = "d96e819e-fc66-5662-9728-84c9c7592b0a"
+UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
